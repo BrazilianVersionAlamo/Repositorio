@@ -23,7 +23,7 @@ var getPosts = function() {
       body: 'Esse é o novo sistema do blog da Católica de SC'
     }
   ];
-//52525
+
   return posts;
 }
 
